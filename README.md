@@ -1,2 +1,2 @@
 # before-oclock
-Version de site autodidacte
+Version de sites autodidactes pour portfolio
